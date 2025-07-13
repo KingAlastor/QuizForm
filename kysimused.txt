@@ -1,0 +1,881 @@
+Q: Relvade kollektsioneerimiseks 
+
+    • loa saamiseks tuleb sooritada relvaeksam (true)
+    • ei ole vaja luba ega eksamit sooritada kui kollektsioneerival isikul on relvaluba 
+    • on õigus luba taotleda juriidilisel isikul  (true)
+    • on õigus luba taotleda vähemalt 16-aastasel füüsilisel isikul
+
+Q: 21-aastane ja vanem eesti kodanik võib soetada
+
+    • jahitulirelva jahipidamiseks (true)
+    • kumminuia enese ja vara kaitseks
+    • püstolit enese ja vara kaitseks  (true)
+    • revolvrit enese ja vara kaitseks (true)
+
+Q: Relva registreerimise kohustus Eestisse saabumise päevast selle soetamisel välismaalt 
+
+    • viie tööpäeva jooksul
+    • seitsme tööpäeva jooksul (true)
+    • kümne tööpäeva jooksul 
+    • mitte hiljem kui ühe kuu jooksul 
+
+Q: Relvaluba vahetatakse 
+
+    • relvahoidla asukoha muutumisel (true)
+    • relvaloa omaja andmete muutumisel (true)
+    • relva kaotsiminekul või hävimisel  (true)
+    • relvaloa kehtivuse lõppemisel (true)
+
+Q: Füüsiline isik võib hoida laskemoona
+
+    • kuni 100 padrunit enesekaitserelvadele
+    • kuni 200 padrunit enesekaitserelvadele (true)
+    • kuni 300 padrunit iga vintraudse jahirelva kohta (true)
+    • kuni 1 kg püssirohtu iga tulirelva kohta, kuid kokku mitte üle 5 kg (true)
+
+Q: Relvakandmine on 
+
+    • relva omamine relvaloa alusel
+    • relva kaasaskandmine väljaspool hoiukohta (true)
+    • relva kaasaskandmine avalikus kohas (true)
+    • relva soetamine
+
+Q: Relva võib muuta laskekõlbmatuks  
+
+    • relvaomanik ise
+    • mistahes sellekohaste oskustega isik
+    • vastavat tegevusluba omav isik (true)
+    • relva müügi tegevusluba omav isik 
+
+Q: Hädakaitseseisundis võib tekitada kahju isikule
+
+    • kes vahetult rünnet teostab (true)
+    • kes on ründe lõpetanud, kuid püüab põgeneda
+    • kelle läbi võib ründajat mõjutada
+    • kelle kohta on teada, et ta kavandab rünnet
+
+Q: Tulirelva oluline osa on 
+
+    • relvaraud (true)
+    • lasersihik
+    • lukk (true)
+    • adapter (true)
+
+Q: Kollektsioneerida on lubatud
+
+    • kasteeti ja kasteetnuga
+    • tulirelvi (true)
+    • helisummutit, lasersihikut, öösihikut  (true)
+    • süütelaskemoona
+
+Q: Füüsiline isik (kes ei ole FIE) võib tulirelvi soetada, omada ja vallata
+
+    • teiste isikute kaitseks
+    • metsloomadele jahipidamiseks (true)
+    • kollektsioneerimiseks (true)
+    • kasutamiseks teenistusrelvana ametikohal, kus on teenistusrelv lubatud 
+
+Q: Tsiviilkäibes on keelatud 
+
+    • tulirelv, millel puudub valmistaja markeering (true)
+    • automaattulirelv (päästikule vajutamisele järgneb valang) (true)
+    • tulirelv, mis imiteerib  muud eset (true)
+    • siledaraudne püss üldpikkusega alla 840mm 
+
+Q: Soetamisluba on kehtiv selle väljastamisest 
+
+    • kolm kuud (true)
+    • kuus kuud
+    • 1 aasta
+    • kuni relva soetamiseni mistahes ajal
+
+Q: Relva edasitoimetamine on 
+
+    • selle kaasaskandmine toimetamiseks jalgsi ühest kohast teise (true)
+    • selle kaasaskandmine toimetamiseks sõidukiga ühest kohast teise (true)
+    • selle saatmine posti teel iseendale ühest kohast teise
+    • selle saatmine posti teel teisele isikule
+
+Q: Nõuded relvakapile
+
+    • ei ole sätestatud ning omanik soetab selle omal valikul
+    • nõuded relvakapile on kehtestatud siseministri määrusega  (true)
+    • relvad peavad sellesse ära mahtuma ja muid nõudeid ei ole
+    • relvakapp peab olema kas relvaomaniku või omaniku poolt usaldatud isiku valduses 
+
+Q: Tsiviilkäibes on lubatud:
+
+    • tulirelv, mis imiteerib mõne muu eseme kuju;
+    • allveenuga; (true)
+    • ajaloolise kultuuri-, võitlus- või sporditraditsiooniga seonduv külmrelv (mõõk, pistoda, rapiir jt) või selle koopia; (true)
+    • elektrišokirelv.
+
+Q: Filmivõtetel on tulirelva kasutamine ­­ lubatud, kui
+
+    • kasutatakse paukpadruneid (true)
+    • selleks on Politsei-ja Piirivalveamet andnud ühekordse loa (true)
+    • kui selleks on andnud loa Päästeamet ja filmivõtete koha järgne kohalik omavalitsus
+    • kui tulirelvas kasutatakse ainult sellele tulirelvale ettenähtud laskemoona ja sihitakse õhku  
+
+Q: Relva soetamisel tuleb see registreerida 
+
+    • elukohajärgses kohalikus omavalitsuses
+    • Maksu- ja Tolliametis
+    • elu- või asukohajärgses prefektuuris (true)
+    • Siseministeeriumis 
+
+Q: Relva ja laskemoona võõrandamine on 
+
+    • üleandmine ajutisele hoidmisele vastavat teenust osutavale isikule
+    • relvaloa peatamisel üleandmine politseile
+    • müümine  (true)
+    • kinkimine  (true)
+
+Q: Tulirelva hoidmisel 
+
+    • peab see olema alati tühjaks laetud (true)
+    • ei pea olema tühjaks laetud, kui seda hoitakse relvakapis
+    • ei pea olema tühjaks laetud, kui seda hoitakse relvakapis, mis asub eraldi ruumis
+    • tühjaks laadimise või mittelaadimisel otsustab selle omanik 
+
+Q: Isik, kelle valduses on pärandvaras olev relv ja laskemoon
+
+    • peab need viivitamatult viima notari juurde, kes teostab pärandvara menetlust
+    • peab need viivitamatult üle andma politseile (true)
+    • võib neid hoida enda valduses kuni notari otsuseni pärandvara jagamise kohta 
+    • peab need viivitamatult üle andma Päästeametile
+
+Q: Järelevalvet tsiviilkäibes lubatud relvade 
+
+    • käitlemise üle teostab politsei (true)
+    • käitlemise üle teostab Tarbijakaitseamet
+    • sisseveo ja väljaveo üle Maksu- ja Tolliamet (true)
+    • sisseveo ja väljaveo üle Kaitseministeerium
+
+Q: Hädakaitse tunnuseks on
+
+    • vahetu  õigusvastase ründe tõrjumine, kui on ohus enda või teise isiku õigushüved   (true)
+    • vahetu eesseisva õigusvastase ründe tõrjumine, kui on ohus enda või teise isiku õigushüved  (true)
+    • vahetult õigusvastase ründe toimepannud isiku kinnipidamine
+    • õigusvastase ründe toimepannud ja põgeneva isiku kinnipidamine
+
+Q: Alla 18-aastane isik võib 
+
+    • vallata gaasipihustit kui ta on vähemalt 16-aastane
+    • omada kuni 4,5-millimeetrise kaliibriga pneumorelva kui ta harrastab vastavat sporti ja ta on vähemalt 10-aastane (true)
+    • omada löögirelva, mis imiteerib mõne muu eseme kuju ja ta on vähemalt 14-aastane
+    • kanda tulirelva, kui ta on teinud relvaeksami ja omab relvaluba
+
+Q: Relvaloa ja/või soetamiseloa kehtivust 
+
+    • ei saa peatada
+    • saab peatada, kui  loa omajal ei ole relvaseaduses ettenähtud tingimusi relva ja laskemoona hoidmiseks (true)
+    • saab peatada, kui loa omajat on väärteomenetluse korras karistatud mootorsõiduki juhtimise eest lubatud alkoholipiirmäära ületades või õhusõiduki, veesõiduki või raudteeveeremi juhtimise eest alkoholijoobes (true)
+    • saab peatada põhjendatud kahtluse korral, et loa omanik võib oma eluviisi või käitumisega ohustada enda või teise isiku turvalisust (true)
+
+Q: Relvakapp ei ole nõutav
+
+    • kahe püstoli või revolvri korral kui isikul on võimalik neid turvaliselt hoida
+    • ühe jahirelva korral (true)
+    • ühe tulirelva ja selle relva laskemoona korral  (true)
+    • ühe jahirelva ja ühe püstoli korral
+
+Q: Relva võib parandada
+
+    • relvaomanik ise
+    • mistahes sellekohaste oskustega isik
+    • vastavat tegevusluba omav isik (true)
+    • relva müügi tegevusluba omav isik 
+
+Q: Avaldus relvaloa vahetamiseks seoses kehtivuse lõppemisega tuleb politseile  esitada 
+
+    • vähemalt 2 kuud enne kehtivuse lõppu (true)
+    • vähemalt 15 päeva enne kehtivuse lõppu
+    • vähemalt 10 päeva enne kehtivuse lõppu
+    • vähemalt 30 tööpäeva enne kehtivuse lõppu
+
+Q: Füüsilist isikut karistatakse väärteokorras
+
+    • elektrišokirelva omamise eest (true)
+    • relva kandmise eest avalikul üritusel (true)
+    • relva joobes kandmise eest  (true)
+    • avaliku korra rikkumise eest kui see rikkumine oli toimepandud relvaga  
+
+Q: Helisummutit võib omada
+
+    • isik, kellel on relvaluba, millele on kantud mistahes tulirelv (true)
+    • isik, kellel on relvaluba, millele on kantud sporditulirelv (true)
+    • isik, kellel on relvaluba, millele on kantud jahirelv  (true)
+    • relva kasutamise eesmärgil lasketiirus või jahil (true)
+
+Q: Tsiviilkäibes lubatud laskemoon on
+
+    • tulirelva padrun, mille kuulil on soomustläbistav kõvasüdamik
+    • õõnsaotsalise kuuliga püstoli- ja revolvripadrun;
+    • kesktulepadrun  (true)
+    • ääretulepadrun (true)
+
+Q: Paralleelrelvaloa korral võib relvaomanik anda relva ja laskemoona üle
+
+    • paralleelrelvaloas märgitud isikule ilma mingeid lisadokumente koostamata  (true)
+    • paralleelrelvaloas märgitud isikule üleandmise-vastuvõtmise akti alusel
+    • ------------------------------------
+    • ------------------------------------
+
+Q: Relvakapi nõuded
+
+    • ei sõltu üldse relvade arvust
+    • ei sõltu relvade arvust, vaid relvade liikidest ja suurusest 
+    • erinevad kuni 5 relva hoidmiseks ning 6 ja enam relva hoidmiseks
+    • erinevad kuni 8 relva hoidmiseks ning  9 ja enama relva hoidmiseks (true)
+
+Q: Relva kandmisel 
+
+    • peab kaasas olema relvaluba 
+    • peab kaasas olema isikut tõendav dokument (true)
+    • revolvri padrunipesas võib olla padrun   (true)
+    • püstoli padrunipesas võib olla padrun 
+
+Q: Hädakaitse piire ei ületata kui isik 
+ 
+    • Asub kaitsma ennast ründe eest vahenditega, mis vastavad ründe ohtlikkusele (true)
+    • tekitab ründajale tahtlikult suurema kahju 
+    • kasutab vahendeid, mis ületavad ründe ohtlikkuse
+    • Asub kaitsma teist isikut ründe eest vahenditega, mis vastavad ründe ohtlikkusele. (true)
+
+Q: Relvade kollektsioneerimiseks 
+
+    • ei ole vaja mingit luba kui kollektsioonis olevaid relvi ei kanta ega kasutata
+    • on vajalik saada politseilt kollektsioneerimisluba (true)
+    • ei ole vaja kollektsioneerimisluba, kui kollektsioneeritakse ainult padruneid 
+    • on vajalik saada politseilt kollektsioneerimisluba,  kui kollektsioneeritakse kasteeti, kasteetnuga, teraspiitsa või muud spetsiaalselt kehavigastuse tekitamiseks valmistatud eset
+
+Q: Relva ja laskemoona võib võõrandada
+
+    • relvade käitlemise tegevusluba omavale isikule (true)
+    • vastavat soetamisluba omavale isikule (true)
+    • mistahes isikule sõltumata relvaloa või soetamisloa omamisest 
+    • isikule, kes on esitanud soetamisloa saamise taotluse  
+
+Q: Relvakapp kuni 8 relva hoidmiseks peab olema
+
+    • ----------------------------------------------------------------------
+    • valmistatud vähemalt 3 mm paksusest terasplekist  (true)
+    • varustatud vähemalt ühe turvalukuga  (true)
+    • varustatud vähemalt kahe turvalukuga
+
+Q: Relvaloa vahetamiseks seoses kehtivuse lõppemisega tuleb prefektuurile esitada
+
+    • avaldus ja selles vahetamise põhjus (true)
+    • foto ja tervisetõend (true)
+    • relvaluba  (true)
+    • relv, et tõendada selle olemasolu (true)
+
+Q: Relva kaotamisest  tuleb politseile teatada 
+
+    • 24 tunni jooksul
+    • 7 tööpäeva jooksul
+    • 7 päeva jooksul 
+    • Viivitamata (true)
+
+Q: Relva võib laskekõlbmatuks muuta
+
+    • tulirelva omaniku enda loal
+    • Politsei- ja Piirivalveameti loal (true)
+    • Maksu- ja Tolliameti loal
+    • Siseministri loal 
+
+Q: Hädakaitse tunnuseks on
+
+    • vahetu  õigusvastase ründe tõrjumine, kui on ohus enda või teise isiku õigushüved   (true)
+    • vahetu eesseisva õigusvastase ründe tõrjumine, kui on ohus enda või teise isiku õigushüved  (true)
+    • vahetult õigusvastase ründe toimepannud isiku kinnipidamine
+    • õigusvastase ründe toimepannud ja põgeneva isiku kinnipidamine
+
+Q: 18-aastane ja vanem eesti kodanik võib soetada
+
+    • siledaraudset püssi enese ja vara kaitseks (true)
+    • kumminuia enese ja vara kaitseks
+    • sporditulirelva vastava spordialaga tegelemiseks (true)
+    • elektrišokirelva enese ja vara kaitseks
+
+Q: Relvaseadusega on relva ja laskemoona keelatud kanda 
+
+    • ühistranspordis
+    • avalikul üritusel (v.a. teenistusrelva teenistuslikul eesmärgil) (true)
+    • lasteasutuses 
+    • haigusseisundis
+
+Q: Relvaomanik või –valdaja peab taotlema luba Politsei- ja Piirivalveametilt relva
+
+    • ümbertegemiseks (true)
+    • lammutamiseks (true)
+    • laskekõlbmatuks muutmiseks (true)
+    • müügiks (true)
+
+Q: Relvakapp 9 ja enama  relva hoidmiseks peab olema
+
+    • valmistatud vähemalt 4 mm paksusest terasplekist  (true)
+    • valmistatud tööstuslikult tootja poolt spetsiaalselt relvade hoidmiseks (true)
+    • --------------------------------
+    • varustatud vähemalt ühe turvalukuga  (true)
+
+Q: Relva soetamisluba annab õiguse
+
+    • loal märgitud relvaliigi hulka kuuluva relva soetamiseks (true)
+    • loal märgitud relvaliigi hulka kuuluva relva laskemoona soetamiseks (true)
+    • mistahes tsiviilkäibes keelatud relva soetamiseks
+    • mistahes tsiviilkäibes keelatud relva  laskemoona soetamiseks
+
+Q: Riigisiseselt võib teostada relvavedu
+
+    • füüsiline või juriidiline isik, kellel on relvaluba või soetamisluba  (true)
+    • füüsiline või juriidiline isik, kellel on tegevusluba relvade valmistamiseks või müügiks. (true)
+    • kui relvad ja laskemoon on valmistaja pakendis  (true)
+    • kui relvad ja laskemoon ei ole valmistajapakendis, kuid on pakitud viisil, mis ei võimalda kohest kasutuselevõttu (true)
+
+Q: Relvaomanik peab järelevalvet teostavale ametnikule
+
+    • võimaldama relva hoidmise koha üle vaatamist (true)
+    • esitama järelevalveks vajalikke dokumente (true)
+    • alluma joobe tuvastamise protseduurile kui teda kahtlustatakse joobes relva kandmises (true)
+    • andma selgitusi (true)
+
+Q: Soetamisloa alusel võib soetada
+
+    • loal märgitud relvaliigi hulka kuuluvat relva  (true)
+    • mistahes relvaliigi hulka kuuluvat relva
+    • mistahes relvaliigi hulka kuuluva relva laskemoona
+    • mistahes tsiviilkäibes keelatud relva
+
+Q: Füüsiline isik võib teostada enda nimele registreeritud relva ja laskemoona väljavedu
+
+    • osalemiseks spordivõistlusel Politsei- ja Piirivalveameti eriloaga (true)
+    • osalemiseks õppusel Kaitseministeeriumi eriloaga
+    • jahipidamiseks mistahes jahindusseltsi eriloaga 
+    • enese ja vara kaitseks reisi korraldava reisibüroo eriloaga   
+
+Q: Tulirelva võib laskekõlbmatuks muuta
+
+    • tulirelva omanik 
+    • relvaluba omav füüsiline isik
+    • relva parandamise või ümbertegemise tegevusluba omav isik (true)
+    • mistahes relva tegevusluba omav isik 
+
+Q: Relva ja laskemoona võib hoida isik, kellel on  
+     
+    • relvaluba või paralleelrelvaluba (true)
+    • tegevusluba relvade ümbertegemiseks (true)
+    • relvaluba peatatud või kehtetuks tunnistatud, kuid tal on relv vajalik enesekaitseks
+    • tegevusluba relvade hoidmiseks teenusena   (true)
+
+Q: Avaldus relvaloa vahetamiseks seoses relva, relvaloa või relvakandmisloa omaja andmete või relvahoidla asukoha muutumisega tuleb politseile esitada 
+
+    • 1 kuu jooksul andmete või asukoha muutumisest arvates
+    • 15 päeva jooksul andmete või asukoha muutumisest arvates
+    • 10 päeva jooksul andmete või asukoha muutumisest arvates
+    • seitsme tööpäeva jooksul andmete või asukoha muutumisest arvates (true)
+
+Q: Tulirelva laskekõlbmatuks muutmine on 
+
+    • tulirelva olulise osa mehaaniline töötlemine, mille tulemusena relv kaotab ajutiselt või jäädavalt lasu sooritamise võime
+    • tulirelva olulise osa mehaaniline töötlemine, mille tulemusena relv kaotab jäädavalt lasu sooritamise võime (true)
+    • tulirelva töötlemine vedelikes, mille tagajärjel kaob võimalus täpsuslaskmiseks 
+    • -----------------------------------------------------------------------
+
+Q: Mis relvad kantakse Euroopa tulirelva passi
+
+    • Vara ja enese kaitse relvad
+    • Jahirelvad (true)
+    • Spordialaga seonduvad relvad (true)
+    • Kutsealaga seonduvad relvad
+
+Q: Mis juhul peab politseile teatama andmete muutumisest
+
+    • relvaomaniku nime muutumisel (true)
+    • relva hoiukoha muutumisel (true)
+    • relvaomaniku andmete muutumise puhul (true)
+    • kui relva omanik läheb kolmeks kuuks tööga seoses välislähetusse
+
+Q: Relva hoiustamine
+
+    • Peab hoiustama alati tühjaks laetuna (true)
+    • Hoiukapi korral ei pea olema tühjaks laetud
+    • Relvakapi korral ei pea olema tühjaks laetud
+    • Relvaomanik otsustab ise, kui tal on relvaruum, kas on tühjaks laetud või mitte
+
+Q: Mis puhul relvaluba/soetamisluba tühistatakse?
+
+    • Relvaomaniku surma puhul (true)
+    • Relva kaotsiminemisel või hävimisel (true)
+    • Relva asukoha muutumisel
+    • Omaniku andmete muutumisel
+ 
+Q: Paralleelrelvaluba väljastatakse:
+
+    • Kuni 5-le inimesele
+    • Kuni 2-le inimesele  (true)
+    • Kuni 10-le inimesele
+    • Piiramatule arvule inimestele
+
+Q: Mis puhul karistatakse väärteokorras
+
+    • Relva kandmise korral avalikul üritusel (true)
+    • Relva kandmise korral alkoholijoobes (true)
+    • Avaliku korra rikkumise korral relvaga, kui on põhjustatud kellelegi kahju 
+    • Relva kandmise eest rongis 
+
+Q: Relvaloa kehtivuse lõppemisel tuleb relv ja laskemoon politseile üle anda: 
+
+    • Relvaloa kehtivuse viimasel tööpäeval (true)
+    • Relvaloa kehtivuse lõppemisest 1 nädal enne
+    • Relvaloa kehtivusest 1 kuu enne
+    • Peale Relvaloa kehtivuse lõppu
+
+Q: Relvade kollektsioneerimiseks
+
+    • Loa saamiseks tuleb sooritada relvaeksam (true)
+    • Ei ole vaja luba kui kollektsioneerival isikul on relvaluba
+    • On õigus luba taotleda juriidilisel isikul (true)
+    • On õigus luba taotleda vähemalt 16-aastasel füüsilisel isikul
+
+Q: Soetamisluba ja/või relvaluba ei väljastata isikule, kes
+
+    • Ei oma töökohta
+    • On raskekujulise psüühikahäirega (true)
+    • On aasta jooksul mitmel korral vahetanud elukohta
+    • Kellele tulenevalt piiratud teovõimest on määratud eestkoste (true)
+
+Q: Tulirelv on
+
+    • Relv, mis on ette nähtud laskma plahvatusgaaside mõjul välja lendkeha (true)
+    • Seade, mis on kohandatud põlemisgaaside survel laskma välja lendkeha (true)
+    • Relv, milles lendkeha väljalaskmiseks kasutatakse püssirohtu (true)
+    • Relv, mille lendkeha väljalaskmiseks kasutatakse surugaasi
+
+Q: Tegu ei ole õigusvastane, kui see pandi toime
+
+•	hädaseisundis (true)
+•	hädakaitse piire ettevaatamatusest ületades (true)
+•	hädakaitse piire tahtlikult ületades
+•      vihahoos	
+
+Q: Relva võib anda hoiule
+
+•	üleandmise-vastuvõtmise akti alusel relvaluba omavale isikule üheks ööpäevaks (true)
+•	relvaluba omavale isikule viieks ööpäevaks
+•	relvaluba mitteomavale isikule üleandmise-vastuvõtmise akti alusel
+•	isikule, kes pakub relvade või laskemoona hoidmist teenusena (true)
+
+Q: Mis on relva olulised osad:
+
+    • Helisummuti
+    • Lasersihik
+    • Lukk (true)
+    • Adapter (true)
+
+Q: Hädakaitseseisundis võib tekitada kahju isikule:
+
+    • kes vahetult rünnet teostab (true)
+    • kes on ründe lõpetanud, kuid põgeneb
+    • kelle läbi võib ründajat mõjutada
+    • Kes teostab vahetut rünnet kolmandatele isikutele (true)
+
+Q: Relvaluba annab omanikule õiguse:
+
+    • viia relv tegevusluba omavale isikule laskekõlbmatuks muutmiseks
+    • viia relv komisjonimüüki
+    • osta seaduslikult soetatud relvale padruneid (true)
+    • osta relv
+
+Q: Padruni komponendid on
+
+    • püssirohi (true)
+    • sütik (true)
+    • padrunikest (true)
+    • kuul/haavlid (true)
+
+Q: Püssirohu hoidmine
+
+    • Peab asuma vähemalt 1 m kaugusel kütteseadmest (true)
+    • Peab asuma vähemalt 10 cm kaugusel kütteseadmest
+    • Võib hoiustada koos sütikutega (true)
+    • Peab hoiustama ainult tehasepakendis või suletud metallpurkides  (true)
+
+Q: Reeglid lasketiirus
+
+    • Relva võib laenutada ja kasutada vaid instruktori juuresolekul/juhendamisel (true)
+    • Relva võib laenutada ja kasutada iseseisvalt
+    • Relvaluba omav isik võib relva laenutada ja kasutada vaid instruktori juuresolekul/juhendamisel
+    • Relvaluba omav inimene võib relva laenutada ja kasutada iseseisvalt  (true)
+
+Q: Relva võõrandamine
+
+    • Luba võõrandamiseks kehtib 1 kuu (true)
+    • Luba võõrandamiseks kehtib 3 kuud
+    • Võib võõrandada vaid relvaluba omavale isikule
+    • Võib võõrandada soetamisloa alusel PPA pädeva ametniku juuresolekul PPA-s või relva asukohas (true)
+
+Q: Kriminaalkorras karistatakse
+
+    • tulirelva lohaka hoidmise eest, kui selle tagajärjel pandi selle relvaga toime kuritegu (true)
+    • tulirelva kaotamise eest, kui relvaloa omanik sellest ei teatanud politseile
+    • tsiviilkäibes keelatud tulirelva ebaseadusliku käitlemise eest (true)
+    • tsiviilkäibes keelatud laskemoona ebaseadusliku käitlemise eest juhul, kui pole ebaolulises koguses (true)
+
+Q: Nõuetekohaselt laskekõlbmatuks muudetud relva
+
+    • Võib omada iga isik, kui tal on laskekõlbmatust tunnistav dokument
+    • Peab registreerima PPAs (true)
+    • Võib muuta laskekõlblikuks
+    • Tohib kasutada inimeste ähvardamiseks
+
+Q: Tsiviilkäibes on keelatud
+
+    • Tulirelv, mille päästikule ühekordselt vajutades järgneb valang (true)
+    • Tulirelv, mis imiteerib muu eseme kuju (true)
+    • Poolautomaatne püss, mida saab ilma tööriistadeta kohandada alla 60cm pikkuseks ilma, et see kaotaks oma funktsionaalsust (true)
+    • Tulirelv millel puudub valmistaja markeering (true)
+
+Q: Relva kandmisel
+
+    • peab kaasas olema relvaluba 
+    • isikut tõendav dokument (true)
+    • revolvri padrunipesas võib olla padrun  (true)
+    • relva võib kanda avalikult 
+
+Q: Isetehtud padruneid võib
+
+    • Kõigile võõrandada
+    • Võõrandada ainult PPA pädeva ametniku juuresolekul
+    • Ei tohi võõrandada (true)
+    • Võib kinkida
+
+Q: Lasersihikut võib:
+
+    • Soetada ja kodus hoida vähemalt 16 aastane isik.
+    • avalikel üritustel varjatult kanda.
+    • Kasutada enesekaitsel sihtimise hõlbustamiseks, kuid ei tohi ületada hädakaitse piiri.
+    • Soetada, omada ja vallata ainult vastava spordialaga tegelemise eesmärgil. (true)
+
+Q: Mis juhtudel on relva kandmine keelatud:
+
+    • avalikes kohtades
+    • alkoholi- või narkojoobes (true)
+    • miitingutel, pidustustel ja demonstratsioonidel (true)
+    • avalikus kohas relva varjamata (true)
+
+Q: Millistel juhtudel on tegemist hädakaitsega:
+
+    • isik tõrjub vahetut õigusvastast rünnet iseenda või teise isiku õigushüvedele tekitades kahju ründaja õigushüvedele  (true)
+    • isik kaitseb end või teist isikut ründava looma eest
+    • isik peab kinni isiku, kes teostas õigusvastast rünnet
+    • isik tõrjub vahetult eesseisvat õigusvastast rünnet iseenda või teise isiku õigushüvedele tekitades kahju ründaja õigushüvedele (true)
+
+Q: Helisummutit võib:
+
+    • kasutada relvaluba omav füüsiline isik jahti pidades (true)
+    • kasutada relvaluba omav isik lasketiirus või laskepaigas (true)
+    • summutit võib avalikult kanda koos relvaga
+    • summutit võib omada enese ja vara kaitseks relvaluba omav isik (true)
+
+Q: Mis on relva ümbertegmine
+
+    • relva nõuetekohane muutmine laskekõlbmatuks
+    • relva parandamine
+    • relva oluliste omaduste muutmine (true)
+    • relva ümbertegemine on keelatud
+
+Q: Mida võib soetada ja kodus hoida 19 aastane isik:
+
+    • Lasersihikut
+    • Vintraudset püssi
+    • Revolvrit
+    • Sileraudset püssi enese ja vara kaitseks (true)
+
+Q: 19-aastane Eesti kodanik võib soetada
+
+    • Vintraudset püssi enese ja vara kaitseks
+    • Elektrišokirelva enese ja vara kaitseks
+    • Gaasirelva enese ja vara kaitseks (true)
+    • Kumminuia enese ja vara kaitseks
+
+Q: Relvahoidla asukoha muutumise korral tuleb politseid teavitada 
+
+    • 7 päeva jooksul
+    • 7  tööpäeva jooksul (true)
+    • 14 päeva jooksul
+    • 14 tööpäeva jooksul
+
+Q: Kes korraldab Eestis relvade ja laskemoona hävitamist ?
+
+    • Politsei- ja Piirivalveamet (true)
+    • kohalik omavalitsus 
+    • ajaloolisi relvi ei hävitata  (true)
+    • kultuuriväärtusega relvi ei hävitata  (true)
+
+Q: Politsei- ja Piirivalveamet võib relvaloa tühistada
+
+    • kui on selgunud, et loa omajal ei ole relva hoiuks vastavaid hoiutingimusi (true)
+    • relvaomaniku enda taotlusel (true)
+    • loa omaja on enda või teise isiku turvalisust ohustava eluviisi või käitumise tõttu sobimatu seda liiki relva soetama või omama (true)
+    • kui loa omajat on karistatud kriminaalkorras (true)
+
+Q: Alates leitud relvale või laskemoonale omandiõiguse tekkimisest kolme kuu jooksul on omanikul õigus
+
+    • Esitada taotlus omandatud relva kohta relvaloa saamiseks (true)
+    • Esitada taotlus omandatud relva laskekõlbmatuks muutmiseks või selle laskekõlbmatusnõuetele vastavuse tuvastamiseks (true)
+    • Võõrandada relv ja laskemoon relvaseadusega kehtestatud korras (true)
+    • Teha eelnimetatud (vastusevariantides a, b ja c) toimingud taotlust esitamata
+
+Q: Tegu ei ole õigusvastane, kui see pannakse toime
+
+    • Hädaseisundis (true)
+    • Hädakaitseseisundis, kui ei ole ületatud hädakaitse piiri (true)
+    • Hädakaitsepiiri ületades otsese tahtlusega
+    • Äkkviha seisundis
+
+Q: Relvaloa omanik, kellel on relv(ad) ainult enese ja vara kaitse otstarbel
+
+    • Võib omandada helisummutit (true)
+    • Võib kasutada lasketiirus lasersihikut
+    • Ei või laskeharjutusel kasutada öösihikut (true)
+    • ---------------------------------
+
+Q: Tulirelva võib muuta laskekõlbmatuks
+
+    • Vastavat tegevusluba omav isik (true)
+    • Maksu- ja Tolliameti loal
+    • Politsei- ja Piirivalveameti loal (true)
+    • Siseministri loal
+
+Q: Kollektsioneerimisloa alusel on lubatud kollektsioneerida
+
+    • Kasteeti ja kasteetnuga
+    • Sõjarelvade hulka arvatud tulirelvi (true)
+    • Helisummutit, lasersihikut ja öösihikut (true)
+    • Süütelaskemoona
+
+Q: Relva võib anda ajutiselt hoiule
+
+    • Üleandmise-vastuvõtmise akti alusel teisele relvaloaga isikule kuni üheks ööpäevaks (true)
+    • Teisele relvaloaga isikule kuni viieks ööpäevaks
+    • Isikule, kellel puudub relvaluba, kui vormistada notariaalne üleandmise-vastuvõtmise akt
+    • Isikule, kellel on tegevusluba relvade hoidmiseks teenusena (true)
+
+Q: Tulirelva laskekõlbmatuks muutmine on
+
+    • Tulirelva korrosiooniga kahjustamine
+    • Tulirelva olulise osa mehaaniline töötlemine, mille tulemusena relva kaotab lasu sooritamise võime (true)
+    • Tulirelva töötlemine vedelikes, mille tagajärjel kaob võimalus täpsuslaskmiseks
+    • Tulirelva ümberehitamine ainult paukpadruneid kasutavaks relvaks
+
+Q: Mida on vaja teisest ELi riigist relvakollektsiooni padrunite ja relvade ostmiseks
+
+    • kollektsioneerimisluba 
+    • kollektsioneerimisluba, soetusluba, eriluba või eelluba ja luba  (true)
+    • Maksu- ja Tolliameti eriluba 
+    • ----------------------------------------
+
+Q: Hädakaitses võib kahjustada ründaja õigushüvesid, kui ründaja: 
+
+    • teostab vahetut õigusvastast rünnet kaitsja või teise isiku õigushüve vastu; (true)
+    • on ründe lõpetanud ja püüab põgeneda;
+    • mõtleb isiku õigushüvede kahjustamisele ja isik on sellest soovist teadlik;
+    • on vahetult alustamas õigusvastast rünnet kellegi õigushüve vastu. (true)
+
+Q: Tsiviilkäibes keelatud relvi võib käidelda
+
+    • Relvaloaga isik
+    • Sõjarelvade käitlemisloaga isik (true)
+    • Relvaloata isik
+    • Kollektsioneerimisloa alusel (true)
+
+Q: Kus võib füüsiline isik relva hoiustada?
+    • hoiukohas, mis asub relvaomaniku elukohas (true)
+    • politseiga kooskõlastatult mujal kui oma elukohas (true)
+    • politseiga kooskõlastatud kuni kahes ajutises hoiukohas (true)
+    • Omanik otsustab relva hoiustamise koha ise
+Q: Tulirelva kandes: 
+
+    • võib püstoli padrunipesas olla padrun
+    • peab olema kaasas isikut tõendav dokument  (true)
+    • tohib minna perega laulupeole, kui teised relva ei näe
+    • võib selle vajadusel hoiustada jõusaali lukustatavas kapis
+
+Q: Nõuded kahe relva hoidmiseks: 
+
+    • peab olema välistatud kõrvaliste isikute ligipääs (true)
+    • peab olema lukustatud nõuetekohases relvakapis  (true)
+    • peab olema lukustatud kapis
+
+Q: Laskelõlbmatu relv: 
+
+    • tuleb selle soetamisel registreerida PPAs (true)
+    • võõrandatakse ilma PPA loata (true)
+    • võib hävitada relvaomanik ise
+    • ------------------------------------
+
+Q: Mis puhul on tegemist süüteoga:
+
+    • tulirelva laskemoona ebaseaduslik käitlemine (true)
+    • tulirelva olulise osa ebaseaduslik käitlemine (true)
+    • avaliku korra rikkumine relvaga (true)
+    • relva kaotsiminekust teatamata jätmine (true)
+
+
+Q: Euroopa Liidus relva edasitoimetamiseks on vajalik:
+
+    • Eestis väljastatud relvaluba
+    • Eestis väljastatud relvasoetusluba
+    • Euroopa Tulirelvapass (true)
+    • ükskõik millises Euroopa Liidu riigis väljastatud relvaluba
+
+Q: Füüsilisele isiku lubatud relva otstarbed:
+
+    • kollektsioneerimine (true)
+    • enese ja vara kaitse (true)
+    • lasketiirus relvade laenutamine
+    • ajaloosündmuse taasetendamine (true)
+
+Q: Füüsilisel isikul on lubatud laskemoona omada:
+
+    • 200 padrunit iga enesekaitserelva kohta
+    • 300 padrunit iga jahirelva kohta (true)
+    • 5500 padrunit enese ja vara kaitse, spordi ja jahirelvadele kokku
+    • mitme otstarbega relva puhul ei tohi ületada suurima lubatud kogusega otstarbe laskemoona kogust (true)
+
+Q: Relvaloa pikendamisel:
+
+    • tuleb maksta riigilõiv (true)
+    • tuleb esitada avaldus (true)
+    • kui relva otstarve on ainult enese ja vara kaitse, tuleb sooritada laskekatse (true)
+    • paralleelrelvaloa pikendamisel ei ole vaja esitada uut relva omaniku nõusuolekut relva kasutamiseks 
+
+Q: Füüsiline isik võib relva omandada:
+
+    • ebameeldiva inimese ähvardamiseks
+    • spordiks (true)
+    • jahiks (true)
+    • kutsealal tegutsemiseks (true)
+
+Q: Piiramata tsiviilkäibega relvad on:
+
+    • pneumorelv kaliibriga kuni 4,5 mm (kaasa arvatud) (true)
+    • gaasipüstol
+    • pneumorelv kaliibriga kuni 6,5 mm (kaasa arvatud)
+    • gaasipihusti (true)
+
+Q: Relva kandmisel avalikus kohas:
+
+    • ei pea kaasas kandma isikut tõendavat dokumenti
+    • peab relv olema varjatud (true)
+    • võib olla kerges joobes
+    • relvolvri padrunipesas võib olla padrun (true)
+
+Q: Öösihikut on lubatud omada relvaloaga, millele on kantud:
+
+    • enese ja vara kaitseks registreeritud vintraudne püstol
+    • jahipidamise otstarbel registreeritud püss (true)
+    • spordialaga tegelmiseks registreeritud püss
+    • jahipidamise otstarbel registreeritud revolver
+	
+Q: Laskmist võib harjutada:
+    • oma krundil kui võõrastele isikutele on ligipääs piiratud
+    • liivakarjääris kui valli kõrgus on vähemalt 5 meetrit
+    • vastavate lubadega lasketiirus või laskepaigas (true)
+    • riigimetsas
+
+Q: Tulirelva ja laskemoona võib ajutiselt Eestist välja toimetada:
+
+    • laskespordivõistlusel osalemiseks (true)
+    • relva remontimiseks tootja juures (true)
+    • turvalisuse tagamiseks puhkusereisil, kui on sihtriigi luba
+    • riigikaitseks osalemise harjutamiseks (true)
+
+Q: Politsei- ja Piirivalveamet keeldub relvaloa pikendamisest:
+
+    • isikule, kes enda või teise isiku turvalisust ohustava käitumise tõttu on sobimatu antud liiki relva soetama ja omama (true)
+    • isikule, kelle suhtes on põhjendatud kahtlus, et ta võib ohustada Eesti Vabariigi julgeolekut (true)
+    • isikule, kellel puudub juhiluba
+    • isikule, kes ei esitanud mõjuva põhjuseta õigeaegselt relvaloa pikendamise taotlust (true)
+
+Q: Hädakaitse piire ei ületa isik:
+
+    • kaitsetegevus vastab ründe ohtlikkusele ega tekita ründajale liigset kahju (true)
+    • hädakaitset teostatakse kavatsetult või otsese tahtlusega vahendiga, mis ilmselt ei vasta ründe ohtlikkusele
+    • asutakse rünnatavat isikut kaitsma vahendiga, mis vastab ründe ohtlikkusele (true)
+    • tekitatakse kavatsetult või otsese tahtlusega ründajale ilmselt liigset kahju
+
+Q: Politsei- ja Piirivalveamet tunnistab relvaloa kehtetuks kui:
+
+    • loa omaja on surnud või teadmata kadunuks tunnistatud (true)
+    • loa omaja taotleb seda (true)
+    • loa omaja on viimase kolme aasta jooksul vähemalt kaks korda rikkunud Relvaseaduse või selle alusel antud õigusakti nõudeid (true)
+    • loa omajal on kehtiv kriminaalkaristus relvaga toime pandud kuriteo eest (true)
+
+Q: Relvaluba, millele on kantud vaid relva liik, annab õiguse:
+
+    • omandada öösihikut
+    • kasutusse võetud relva võõrandamiseks
+    • soetada seaduslikult kasutusse võetud relvale laskemoona (true)
+    • osta tulirelv
+
+Q: Tulirelvast laskmist võib harjutada:
+
+    • oma kinnistul, kui ohutus ümbrusele on tagatud
+    • ettenähtud nõusolekutega lasketiirus või laskepaigas (true)
+    • riigimetsas
+    • liivakarjääris suunaga üle 5 meetrisesse valli
+
+Q: Tulirelva ja laskemoona tuleb hoiukohas hoida:
+
+    • relv tühjaks laetuna (true)
+    • 1 relva ja selle laskemoona peidetult ühes kohas
+    • nii, et see oleks vajadusel kättesaadav teisele täisealisele pereliikmele
+    • 2 kuni 8 tulirelva tuleb hoida relvakapis, mis on kinnitatud põranda, seina või ehituskonstruktsiooni külge  (true)
+
+
+Q: Füüsilisele isikule lubatud relva omamise otstarve on:
+
+    • Jahipidamine (true)
+    • Turvalisuse tagamine (true)
+    • Kollektsioneerimine (true)
+    • Lasketiirus laenutamine
+    • Kultuurilise sündmuse etendamine (true)
+
+Q: Tulirelva olulised osad on:
+
+    • Padrunisalv
+    • Lukk (true)
+    • Kaitseriiv
+    • Relvaraam  (true)
+    • Püstolikelk (true)
+
+Q: Füüsiline isik võib hoida laskemoona järgmistes kogustes:
+
+    • Kuni 200 padrunit isiku omanduses või valduses olevate turvalisuse tagamise otstarbega tulirelvade kohta (true)
+    • Kuni 300 padrunit iga jahirelva kohta (true)
+    • Kuni 200 gaasirelva padrunit
+    • Kuni 500 sütikut
+
+Q: Relva võib anda ajutiselt hoiule:
+
+    • Üleandmise-vastuvõtmise akti alusel teisele relvaloaga isikule kuni 1 ööpäevaks (true)
+    • Teisele relvaloaga isikule kuni 10 ööpäevaks
+    • Isikule, kellel puudub relvaluba, kui vormistada notariaalne üleandmise-vastuvõtmise akt
+    • Relvade hoidmise teenuse tegevusloaga isikule (true)
+
+Q: Tulirelva müümisel (võõrandamisel) teisele füüsilisele isikule:
+
+    • Piisab, kui ostjal on vastav relvaluba
+    • Vormistatakse see Politsei- ja Piirivalveameti pädeva ametniku juuresolekul (true)
+    • Võib tehing toimuda kodus, kui on teavitatud Politsei- ja Piirivalveametit
+    • Peab ostjal olema soetamisluba (true)
+
+Q: Süüteona on karistatav:
+
+    • Tulirelva mittenõuetekohane hoidmine (true)
+    • Tulirelva lohakas hoidmine, kui see on kaasa toonud kellegi tervisekahjustuse (true)
+    • Tsiviilkäibes keelatud tulirelva ebaseaduslik käitlemine (true)
+    • Tsiviilkäibes keelatud laskemoona ebaseaduslik käitlemine (true)
