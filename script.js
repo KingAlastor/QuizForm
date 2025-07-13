@@ -42,13 +42,16 @@ class QuizApp {
         // Clear previous answers
         answersContainer.innerHTML = '';
 
+        // Create shuffled answers with original indices
+        const shuffledAnswers = this.shuffleAnswers(question.answers);
+
         // Create answer elements
-        question.answers.forEach((answer, index) => {
+        shuffledAnswers.forEach((answerData, displayIndex) => {
             const answerItem = document.createElement('div');
             answerItem.className = 'answer-item';
             answerItem.innerHTML = `
-                <input type="checkbox" id="answer-${index}" name="answer" value="${index}">
-                <label for="answer-${index}">${answer.answer}</label>
+                <input type="checkbox" id="answer-${displayIndex}" name="answer" value="${answerData.originalIndex}">
+                <label for="answer-${displayIndex}">${answerData.answer}</label>
             `;
             answersContainer.appendChild(answerItem);
 
@@ -78,6 +81,23 @@ class QuizApp {
         setTimeout(() => {
             document.querySelector('.question-container').classList.remove('fade-in');
         }, 500);
+    }
+
+    // Fisher-Yates shuffle algorithm to randomize answers
+    shuffleAnswers(answers) {
+        // Create array with answers and their original indices
+        const answersWithIndices = answers.map((answer, index) => ({
+            ...answer,
+            originalIndex: index
+        }));
+
+        // Shuffle the array
+        for (let i = answersWithIndices.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [answersWithIndices[i], answersWithIndices[j]] = [answersWithIndices[j], answersWithIndices[i]];
+        }
+
+        return answersWithIndices;
     }
 
     updateAnswerItemStyle(answerItem, isChecked) {
@@ -110,7 +130,7 @@ class QuizApp {
             return;
         }
 
-        // Get user's answers
+        // Get user's answers (these are the original indices)
         const userAnswers = Array.from(checkedAnswers).map(input => parseInt(input.value));
         
         // Calculate score for this question
@@ -120,9 +140,10 @@ class QuizApp {
         }
 
         // Reveal correct/incorrect answers
-        answerItems.forEach((item, index) => {
+        answerItems.forEach((item, displayIndex) => {
             const checkbox = item.querySelector('input[type="checkbox"]');
-            const isAnswerCorrect = question.answers[index].correct;
+            const originalIndex = parseInt(checkbox.value); // Get the original index
+            const isAnswerCorrect = question.answers[originalIndex].correct;
             const isUserSelected = checkbox.checked;
 
             // Disable checkbox
