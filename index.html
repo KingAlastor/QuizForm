@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Form - Learning Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Learning Quiz</h1>
+            <div class="progress">
+                <span id="question-counter">Question 1 of 5</span>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <form id="quiz-form">
+                <div class="question-container">
+                    <h2 id="question-text">Loading question...</h2>
+                    
+                    <div class="answers-container" id="answers-container">
+                        <!-- Answers will be dynamically generated here -->
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" id="submit-btn" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+
+            <div class="results-container" id="results-container" style="display: none;">
+                <h2>Quiz Complete!</h2>
+                <p id="final-score">Your score: 0/5</p>
+                <button id="restart-btn" class="btn btn-secondary">Restart Quiz</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
